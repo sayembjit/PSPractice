@@ -1,3 +1,5 @@
 Manipulating line 1.
 This is for checking merge
-This is from Pial
+This is from Pial in line 3
+Added line 3 by Sayem.
+
